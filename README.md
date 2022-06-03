@@ -1,2 +1,2 @@
-# readpay
-a wordpress plugin
+# Libra
+a Discuz! theme
