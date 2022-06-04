@@ -1,2 +1,2 @@
-# Libra
-a Discuz! theme
+# Theia
+A Discuz! theme
