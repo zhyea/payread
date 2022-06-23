@@ -1,4 +1,4 @@
-<?php echo '站拽设计，客服QQ：2050094712';exit;?>
+
 <!--{template common/header}-->
 
 <script type="text/javascript" src="$_G['style']['styleimgdir']/js/jquery.SuperSlide.2.1.1.js"></script>
